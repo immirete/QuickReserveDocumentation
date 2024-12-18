@@ -1,0 +1,7 @@
+com.quickreserve.config
+com.quickreserve.controller
+com.quickreserve.domain
+com.quickreserve.repository
+com.quickreserve.repository.impl
+com.quickreserve.service
+com.quickreserve.service.impl
